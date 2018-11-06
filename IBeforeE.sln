@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IBeforeE", "IBeforeE\IBeforeE.vcxproj", "{F055F6D0-13B5-4AFE-B923-2ADFF4567F22}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ACipher", "ACipher\ACipher.vcxproj", "{51708165-6E33-4AA8-8CEA-35E204E1E65F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{F055F6D0-13B5-4AFE-B923-2ADFF4567F22}.Release|x64.Build.0 = Release|x64
 		{F055F6D0-13B5-4AFE-B923-2ADFF4567F22}.Release|x86.ActiveCfg = Release|Win32
 		{F055F6D0-13B5-4AFE-B923-2ADFF4567F22}.Release|x86.Build.0 = Release|Win32
+		{51708165-6E33-4AA8-8CEA-35E204E1E65F}.Debug|x64.ActiveCfg = Debug|x64
+		{51708165-6E33-4AA8-8CEA-35E204E1E65F}.Debug|x64.Build.0 = Debug|x64
+		{51708165-6E33-4AA8-8CEA-35E204E1E65F}.Debug|x86.ActiveCfg = Debug|Win32
+		{51708165-6E33-4AA8-8CEA-35E204E1E65F}.Debug|x86.Build.0 = Debug|Win32
+		{51708165-6E33-4AA8-8CEA-35E204E1E65F}.Release|x64.ActiveCfg = Release|x64
+		{51708165-6E33-4AA8-8CEA-35E204E1E65F}.Release|x64.Build.0 = Release|x64
+		{51708165-6E33-4AA8-8CEA-35E204E1E65F}.Release|x86.ActiveCfg = Release|Win32
+		{51708165-6E33-4AA8-8CEA-35E204E1E65F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
