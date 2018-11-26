@@ -2,7 +2,6 @@
 
 .data
 	prompt: .asciiz "Enter starting num: "
-	message: .asciiz "\n You entered "
 	space: .asciiz " "
 	newline: .asciiz "\n"
 
