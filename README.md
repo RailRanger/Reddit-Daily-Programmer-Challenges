@@ -1,4 +1,5 @@
 These are the Reddit Daily Programmer Challenges https://www.reddit.com/r/dailyprogrammer/
+Each folder contains a description of the challenge
 
 1. ACipher - Alphabet Cipher Challenge https://www.reddit.com/r/dailyprogrammer/comments/879u8b/20180326_challenge_355_easy_alphabet_cipher/
 2. Defusal - Defusing The Bomb https://www.reddit.com/r/dailyprogrammer/comments/5e4mde/20161121_challenge_293_easy_defusing_the_bomb/
